@@ -1,0 +1,32 @@
+Name: monarch.bmp
+SNR: inf
+PSNR: inf
+Compression Ratio: 0.940903
+Name: lenna.bmp
+SNR: inf
+PSNR: inf
+Compression Ratio: 0.713708
+Name: face.bmp
+SNR: inf
+PSNR: inf
+Compression Ratio: 0.825325
+Name: baboon.bmp
+SNR: inf
+PSNR: inf
+Compression Ratio: 0.873223
+Name: barbara.bmp
+SNR: inf
+PSNR: inf
+Compression Ratio: 0.9713
+Name: pepper.bmp
+SNR: inf
+PSNR: inf
+Compression Ratio: 0.963262
+Name: flowers.bmp
+SNR: inf
+PSNR: inf
+Compression Ratio: 0.948965
+Name: coastguard.bmp
+SNR: inf
+PSNR: inf
+Compression Ratio: 0.936403
